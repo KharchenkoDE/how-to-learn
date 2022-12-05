@@ -7,7 +7,3 @@
   top: 64px;
   z-index: 1;
 }
-
-.header__square-pic_rotation {
-  animation: rotation 20s linear infinite;
-}
