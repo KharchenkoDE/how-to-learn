@@ -31,4 +31,4 @@
 В проекте исопльзуется язык HTML версии 5.3 в сочетании со стилевыми файлами CSS версии 3.
 
 ## Ссылка на проект
-* [Ссылка на проект в github-pages](https://github.com/KharchenkoDE/how-to-learn)
+* [Ссылка на проект в github-pages](https://kharchenkode.github.io/how-to-learn/)
